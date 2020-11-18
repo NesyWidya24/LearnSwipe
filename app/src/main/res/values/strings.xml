@@ -3,4 +3,6 @@
     <string name="the_title">The Title</string>
     <string name="description">Description</string>
     <string name="dd_mm_yyyy">dd/MM/yyyy</string>
+    <string name="click_button_to_authenticate">Click button to authenticate</string>
+    <string name="authenticate">Authenticate</string>
 </resources>
